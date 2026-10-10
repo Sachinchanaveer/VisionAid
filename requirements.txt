@@ -1,0 +1,17 @@
+# AI-Assisted Smart Blind Stick
+# Python dependencies for main.py
+#
+# Target: Raspberry Pi OS
+# Install only in a compatible Raspberry Pi Python environment.
+
+# YOLO object detection and inference
+ultralytics
+
+# Image processing and display
+opencv-python
+
+# Numerical arrays used by the vision stack
+numpy
+
+# GPIO, camera and speech dependencies are managed separately.
+# See README.md for Raspberry Pi OS packages.
